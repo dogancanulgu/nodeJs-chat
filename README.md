@@ -28,15 +28,15 @@ http://localhost:3000/
 # Understand with Photos
 
 User can understand the person who is typing
-![First Typing](readme\FirstTyping.png)
+![First Typing](https://github.com/dogancanulgu/nodeJs-chat/blob/master/readme/FirstTyping.png)
 
 Both user can see message
-![Second Typing](readme\SecondTyping.png)
+![Second Typing](https://github.com/dogancanulgu/nodeJs-chat/blob/master/readme/SecondTyping.png)
 
 Allow Multi User
-![Third Typing](readme\ThirdTyping.png)
+![Third Typing](https://github.com/dogancanulgu/nodeJs-chat/blob/master/readme/ThirdTyping.png)
 
-![Fourth Typing](readme\FourthTyping.png)
+![Fourth Typing](https://github.com/dogancanulgu/nodeJs-chat/blob/master/readme/FourthTyping.png)
 
 ## License
 
